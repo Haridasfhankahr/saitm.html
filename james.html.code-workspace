@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_practice_webpage"
+	}
+}

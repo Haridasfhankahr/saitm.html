@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+P {
+    border: 2px solid peru;
+  
+    margin: 50px;
+    color: red;
+}
+        
